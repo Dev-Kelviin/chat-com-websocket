@@ -1,3 +1,3 @@
 # app_chat
 
-Chat App com WebSocket Backend
+Chat simples usando websocket em tempo real
